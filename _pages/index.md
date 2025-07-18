@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Home
-id: home
-permalink: /
+title: lol
+id: lol
+
 ---
 
 # Welcome! 🌱
