@@ -51,7 +51,7 @@ title: Berechnung der Regressiongerade für die einfache lineare Regression
   * Y-Achsenabschnitt: $a= \bar{y}$
   * Die Regressionsgerade liegt parallel zur x-Achse, bei $\bar{y}$
 * Regressionsgerade bei z-standardisierten Variablen
-  * \(\hat{z}_{yi} = r_{xy} \cdot z_{xi}\)
+  * $ \hat{z}_{yi}=r_{xy}\cdot z_{xi} $
   * $b = \beta =r$
     * Gibt an um wie viele Standardabweichungen sich die Variable Y verändert wenn x sich um eins erhöht
   * $a = b_0 = 0$
