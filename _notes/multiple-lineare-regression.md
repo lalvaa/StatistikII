@@ -147,8 +147,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
   * Werte der einzelnen Personen müssen unabhängig voneinander sein
 * Lineare Beziehung
   * Der Zusammenhang zwischen dem Erwartungswert des Kriteriums und des Prädiktors muss in der Population linear sein
-  * Gegeben durch eine Gleichung
-    * $E(y\;|\; x_1 , ... ,x_k) = \beta_{0} + \beta_1 \cdot x_1 \; + ... + \; \beta_k \cdot x_k$
+  * Gegeben durch eine Gleichung $$E(y\;|\; x_1 , ... ,x_k) = \beta_{0} + \beta_1 \cdot x_1 \; + ... + \; \beta_k \cdot x_k$$
   * Lineare Zusammenhänge = Wenn x-Werte steigen/sinken, steigen/sinken y -Werte
   * ![277x199](/assets/nlz.png)
 * Metrisches Skalenniveaus des Kriteriums
@@ -175,8 +174,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 ### <u>Supressoreffekt:</u>
 
 * Ein Prädiktor der kaum oder gar nicht mit dem Kriterium korreliert allerdings trzdm. die Vorhersage verbessert
-  * Aufgrund von starker Korrelation mit einem anderen Prädiktor
-* $R^2_{y,12} > r^2_{y1}+r^2_{y2}$
+  * Aufgrund von starker Korrelation mit einem anderen Prädiktor $$R^2_{y,12} > r^2_{y1}+r^2_{y2}$$
   * Die Summe der einzelnen Korrelationen (r²) ist kleiner als R²
 * Ein Supressor hat häufig ein auffallend hohes Regressionsgewicht obwohl die einfache Korrelation mit dem Kriterium niedrig/null ist
 

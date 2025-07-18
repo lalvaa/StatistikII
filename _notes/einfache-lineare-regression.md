@@ -119,8 +119,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
   * Werte der einzelnen Personen müssen unabhängig voneinander sein
 * Lineare Beziehung
   * Der Zusammenhang zwischen dem Erwartungswert des Kriteriums und des Prädiktors muss in der Population linear sein
-  * Gegeben durch eine Gleichung
-    * $E(y \mid x_1, \ldots, x_k) = \beta_0 + \beta_1 \cdot x_1 + \cdots + \beta_k \cdot x_k$
+  * Gegeben durch eine Gleichung $$E(y \mid x_1, \ldots, x_k) = \beta_0 + \beta_1 \cdot x_1 + \cdots + \beta_k \cdot x_k$$
   * Lineare Zusammenhänge = Wenn x-Werte steigen/sinken, steigen/sinken y
   * ![277x199](/assets/nlz.png)
 * Metrisches Skalenniveaus des Kriteriums
