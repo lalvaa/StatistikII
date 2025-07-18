@@ -29,7 +29,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
 
 ---
 
-### <u>Voraussetzung:</sub>
+### <u>Voraussetzung:</u>
 
 * Nominalskalierte Variable
 

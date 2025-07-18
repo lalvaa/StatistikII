@@ -17,9 +17,9 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 
 * **Unabhängige Variable:** Messzeitpunkt (vorher vs. nachher)
 
-* ---
+---
 
-### <u>Voraussetzungen:</sub>
+### <u>Voraussetzungen:</u>
 
 * Intervallskalierte Merkmale
 
@@ -30,6 +30,8 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 * H<sub>0</sub>: Median der Differenzen $\neq$ 0
   * Die Summe der Ranplatzverschlechterungen (T<sub>p</sub>) und Rangplatzverbesserungen(T<sub>m</sub>) sind gleich
 * H<sub>1</sub>: Median der Differenzen >/\< 0
+  * Die Summe der Ranplatzverschlechterungen (T<sub>p</sub>) und Rangplatzverbesserungen(T<sub>m</sub>) sind unterschiedlich
+    * Es gibt einen Unterschiede aufgrund der Messzeitpunkte
 
 ---
 
@@ -46,7 +48,7 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 ### <u>Vorgehen:</u>
 
 1. Absolutbetrag der Differenz zwischen den Werten der Gruppe 1 und der Gruppe 2 bilden:
-   * \| x<sub>1,n</sub> -x<sub>2,n</sub> |
+   * | x<sub>1,n</sub> -x<sub>2,n</sub> |
 1. Richtung der Änderung notieren:
    * Wenn der Messwert steigt z.B. ein + wenn der Messwert sinkt z.B. ein -
 1. Absolutbeträge in Rangreihe bringen und Rangplätze zuweisen:

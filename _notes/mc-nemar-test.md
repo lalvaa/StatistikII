@@ -28,7 +28,7 @@ Es werden die Personen betrachtet, die zwischen den 2 Messungen die Kategorie ge
 
 ---
 
-### <u>Voraussetzung:</sub>
+### <u>Voraussetzung:</u>
 
 * Nominalskalierte Variable
 

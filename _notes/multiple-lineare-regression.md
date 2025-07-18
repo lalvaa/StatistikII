@@ -123,8 +123,8 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
     * UV/Prädiktor/dan.sleep:
       * Signifikanz des Prädiktors:
         * Sehr hohe Signifikanz
-          → dan.sleep hat einen negativen Zusammenhang mit dan.grump
-          → Mehr Schlaf = Weniger Grumpyness
+          * → dan.sleep hat einen negativen Zusammenhang mit dan.grump
+          * → Mehr Schlaf = Weniger Grumpyness
       * Mit jeder zusätzliche Stunde schlaf reduziert sich Dans Grumpyness um $\approx 8,95$ Punkte
     * UV/Prädiktor/baby.sleep:
       * Signifikanz des Prädiktors:
