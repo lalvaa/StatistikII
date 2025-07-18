@@ -187,24 +187,24 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 2. **Varianzen berechnen**
    * Quadratsummen werden durch die zugehörigen Freiheitsgrade geteilt
    * **Systematische Varianz (für jeden Effekt)**
-     * $$\sigma^2_{A} = \dfrac{QS_A}{df_A}$$
-     * $$\sigma^2_{B} = \dfrac{QS_B}{df_B}$$
-     * $$\sigma^2_{A \times B} = \dfrac{QS_{A \times B}}{df_{A \times B}}$$
+     * <div class="math-left"> $$\sigma^2_{A} = \dfrac{QS_A}{df_A}$$ </div>
+     * <div class="math-left"> $$\sigma^2_{B} = \dfrac{QS_B}{df_B}$$ </div>
+     * <div class="math-left"> $$\sigma^2_{A \times B} = \dfrac{QS_{A \times B}}{df_{A \times B}}$$ </div>
    * **Fehlervarianz (Residuals)**
-     * $$\sigma^2_{\text{inn}} = \dfrac{QS_{\text{inn}}}{df_{\text{inn}}}$$
+     * <div class="math-left"> $$\sigma^2_{\text{inn}} = \dfrac{QS_{\text{inn}}}{df_{\text{inn}}}$$ </div>
    * **Freiheitsgrade**
      * $df_A = a - 1$
      * $df_B = b - 1$
-     * $$df_{A \times B} = (a - 1)(b - 1)$$
+     * <div class="math-left"> $$df_{A \times B} = (a - 1)(b - 1)$$
      * $df_{\text{inn}} = N - ab$
        * $a$ = Anzahl Stufen von Faktor A
        * $b$ = Anzahl Stufen von Faktor B
        * $N$ = Gesamtanzahl der Beobachtungen
 3. **F-Test berechnen**
    * Für jeden Effekt wird ein separater F-Wert berechnet:
-     * $$F_A = \dfrac{\sigma^2_A}{\sigma^2_{\text{inn}}}$$
-     * $$F_B = \dfrac{\sigma^2_B}{\sigma^2_{\text{inn}}}$$
-     * $$F_{A \times B} = \dfrac{\sigma^2_{A \times B}}{\sigma^2_{\text{inn}}}$$
+     * <div class="math-left"> $$F_A = \dfrac{\sigma^2_A}{\sigma^2_{\text{inn}}}$$ </div>
+     * <div class="math-left"> $$F_B = \dfrac{\sigma^2_B}{\sigma^2_{\text{inn}}}$$ </div>
+     * <div class="math-left"> $$F_{A \times B} = \dfrac{\sigma^2_{A \times B}}{\sigma^2_{\text{inn}}}$$ </div>
    * **Vergleich mit kritischem F-Wert**
      * $F_{emp} \ge F_{krit}$  
        → Signifikant, Nullhypothese für den jeweiligen Effekt wird abgelehnt
