@@ -65,7 +65,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 * Unabhängigkeit
   * Alle Daten müssen unabhängig voneinander sein
 
-\_\_\_-
+---
 
 ### <u>Interpretation der Ergebnisse:</u>
 
@@ -104,7 +104,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
       * Vergleichbar zwischen Modellen und Studien
     * Für jeden Effekt (Faktor und Interaktion) wird ein $\eta^2_{partiell}$ berechnet
 * Effektgröße r
-  * $r=\sqrt{\eta^2_{p}^2}$ wenn Studiendesign vergleichbar ist
+  * $r=\sqrt{{\eta^2}_{p}^2}$ wenn Studiendesign vergleichbar ist
   * Zeigt die Größe eines Zusammenhangs oder Unterschieds an
     * $r = 0{,}10$ : kleiner Effekt
     * $r = 0,30$  : mittlerer Effekt
