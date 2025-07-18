@@ -94,7 +94,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
     * Der Wert des Kriteriums wenn der Prädiktor 0 ist
 * Beispiel in Jamovi:
   
-  * ![375x198](tabelle_jamovi_elr.png)
+  * ![375x198](/assets/tabelle_jamovi_elr.png)
   * "Hängt Dans Grumpyness mit seinem Schlafmangel zusammen?"
     * UV/Prädiktor/dan.sleep:
       * Mit jeder zusätzlichen Stunde Schlaf reduziert sich Dans Grumpyness im Durchschnitt um 8,94 Punkte.
@@ -122,7 +122,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
   * Gegeben durch eine Gleichung
     * $E(y \mid x_1, \ldots, x_k) = \beta_0 + \beta_1 \cdot x_1 + \cdots + \beta_k \cdot x_k$
   * Lineare Zusammenhänge = Wenn x-Werte steigen/sinken, steigen/sinken y
-  * ![277x199](nlz.png)
+  * ![277x199](/assets/nlz.png)
 * Metrisches Skalenniveaus des Kriteriums
   * AV muss Metrisch skaliert sein (Intervall / Verhältnis)
   * UV kann beliebiges Skalenniveau besitzen
@@ -136,7 +136,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
   * Überprüfung durch Arrayverteilung
     * Verteilung der Residuen zeigt ob Homoskedastizität gegeben ist
     * Z.B.: Durch Grafische Darstellung
-    * ![254x84](arrayverteilung.png)
+    * ![254x84](/assets/arrayverteilung.png)
 
 ---
 

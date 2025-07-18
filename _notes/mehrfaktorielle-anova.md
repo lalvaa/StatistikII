@@ -158,9 +158,9 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
     * Zeigt, **wie stark die Einzelwerte innerhalb der Zellen im Durchschnitt abweichen**
     * Grundlage für F-Berechnung
 * Jamovi:
-  * ![258x95](manojameins.png)
+  * ![258x95](/assets/manojameins.png)
 * R Output:
-  * ![326x103](manor.png)
+  * ![326x103](/assets/manor.png)
 * G\* Power
   * Zeigt die **Power (Teststärke)** an
     * Wahrscheinlichkeit, einen tatsächlichen Effekt auch wirklich zu entdecken

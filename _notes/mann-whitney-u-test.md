@@ -52,7 +52,7 @@ Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig
 * Für n \< 50
   
   1. Allen Werten wird ein Rangplatz zugeordnet:
-     ![166x101](mwu.png)
+     ![166x101](/assets/mwu.png)
   1. Rangsummen für beide Gruppen berechnen:
      * T<sub>1</sub> = $\sum_{i=1}^{n} t_{1i}$
        * T<sub>1</sub> = 4+6+5+2 = 17

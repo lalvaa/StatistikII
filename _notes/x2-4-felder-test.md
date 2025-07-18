@@ -51,7 +51,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
   * k = Anzahl der Stufen des Merkmals A
   * l = Anzahl der Stufen des Merkmals B
   * df = k-1
-    ![285x336](chiviertzwei.png)![342x107](chivierteins.png)
+    ![285x336](/assets/chiviertzwei.png) ![342x107](/assets/chivierteins.png)
 
 ---
 
