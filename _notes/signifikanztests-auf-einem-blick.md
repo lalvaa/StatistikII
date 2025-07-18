@@ -31,4 +31,4 @@ Hier findest du alle Inferenzstatistischen Tests, die wir in Statistik II behand
 
 ---
 
-[Zurück zum Überblick](../statistik-fuer-psychologie)
+[Zurück zum Überblick](/)
