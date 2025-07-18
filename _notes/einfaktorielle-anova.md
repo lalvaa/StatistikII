@@ -159,9 +159,9 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 1. Varianzen bilden
    * Quadratsummen werden durch Freiheitsgrade geteilt
    * Systematische Varianz
-     * $\sigma^2_{zw} = \dfrac{QS_{zw}}{df_{zw}}$
+     * $$\sigma^2_{zw} = \dfrac{QS_{zw}}{df_{zw}}$$
    * Fehlervarianz
-     * $\sigma^2_{inn} = \dfrac{QS_{innn}}{df_{inn}}$
+     * $$\sigma^2_{inn} = \dfrac{QS_{innn}}{df_{inn}}$$
    * Freiheitsgrade:
      * $df_{zw} = k-1$
      * $df_{inn} = N-k$
@@ -171,7 +171,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 1. F-Test
    * Mit den 2 Varianzen wird dann der F-Test berechnet
    * $F=\dfrac{\text{systematische Varianz}} {\text{Fehlervarianz}}$
-   * $F = \dfrac{\sigma^2_{zw}} {\sigma^2_{inn}}$
+   * $$F = \dfrac{\sigma^2_{zw}} {\sigma^2_{inn}}$$
    * $F_{emp}\ge F_{krit}$
      * Signifikant und Nullhypothese wird abgelehnt
 

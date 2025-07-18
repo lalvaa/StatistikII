@@ -48,7 +48,7 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 ### <u>Vorgehen:</u>
 
 1. Absolutbetrag der Differenz zwischen den Werten der Gruppe 1 und der Gruppe 2 bilden:
-   * | x<sub>1,n</sub> -x<sub>2,n</sub> |
+   * x<sub>1,n</sub> -x<sub>2,n</sub>
 1. Richtung der Änderung notieren:
    * Wenn der Messwert steigt z.B. ein + wenn der Messwert sinkt z.B. ein -
 1. Absolutbeträge in Rangreihe bringen und Rangplätze zuweisen:

@@ -36,7 +36,7 @@ Diese Tests werden verwendet, wenn **Voraussetzungen parametrischer Tests** (z.B
   * [Mann-Whitney-U-Test](/mann-whitney-u-test)
   * [Wilcoxon-Vorzeichen-Rang-Test](/wilcoxon-vorzeichen-rang-test)
 * Effektstärke berechnen:und-Power
-  * [Robuste n.-p. Effektstärke](/-n.-p.-Effektstaerke)
+  * [Robuste n.-p. Effektstärke](/robuste-n-p-effektstarke)
 * Zurück zum Start
   * [Signifikanztests auf einem Blick](/signifikanztests-auf-einem-Blick)
 
