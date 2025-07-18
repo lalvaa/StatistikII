@@ -134,21 +134,21 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
      * $QS_{\text{Zeit}} = \sum_j n (\bar{y}_{.j} - \bar{\bar{y}})^2$
      * Abweichung der Mittelwerte der Zeitpunkte vom Gesamtmittelwert
    * Fehlervariation (Residuals)
-     * $QS_{\text{Fehler}} = \sum_{i,j} (y_{ij} - \bar{y}_{i.} - \bar{y}_{.j} + \bar{\bar{y}})^2$
+     * <div class="math-left"> $$QS_{\text{Fehler}} = \sum_{i,j} (y_{ij} - \bar{y}_{i.} - \bar{y}_{.j} + \bar{\bar{y}})^2$$ </div>
      * Abweichung der Einzelwerte von Personen- und Zeitmittelwerten
 1. Varianzen berechnen
 
 * Systematische Varianz (Zeit)
-  * $\sigma^2_{\text{Zeit}} = \dfrac{QS_{\text{Zeit}}}{df_{\text{Zeit}}}$
+  * <div class="math-left"> $$\sigma^2_{\text{Zeit}} = \dfrac{QS_{\text{Zeit}}}{df_{\text{Zeit}}}$$ </div>
 * Fehlervarianz (Residuals)
-  * $\sigma^2_{\text{Fehler}} = \dfrac{QS_{\text{Fehler}}}{df_{\text{Fehler}}}$
+  * <div class="math-left"> $$\sigma^2_{\text{Fehler}} = \dfrac{QS_{\text{Fehler}}}{df_{\text{Fehler}}}$$ </div>
 * Freiheitsgrade
   * $df_{\text{Zeit}} = k - 1$
   * $df_{\text{Fehler}} = (n - 1)(k - 1)$
   * $k$ = Anzahl Messzeitpunkte, $n$ = Anzahl Personen
 
 1. F-Test berechnen
-   * $F = \dfrac{\sigma^2_{\text{Zeit}}}{\sigma^2_{\text{Fehler}}}$
+   * <div class="math-left"> $$F = \dfrac{\sigma^2_{\text{Zeit}}}{\sigma^2_{\text{Fehler}}}$$ </div>
    * Vergleich mit kritischem F-Wert
      * $F_{emp} \ge F_{krit}$ → Signifikant, Nullhypothese wird abgelehnt
 
