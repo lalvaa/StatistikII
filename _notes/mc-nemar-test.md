@@ -45,7 +45,7 @@ Es werden die Personen betrachtet, die zwischen den 2 Messungen die Kategorie ge
 ##### <u>Prüfgröße x²:</u>
 
 * ${x_{emp}}^2 = \dfrac{(b - c)}{b+c}$
-  ![311x123](/Mc-Nemar-Test.png)
+  ![311x123](Mc-Nemar-Test.png)
 
 ---
 

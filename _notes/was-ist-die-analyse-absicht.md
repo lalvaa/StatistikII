@@ -31,4 +31,4 @@ title: Was ist die Analyse Absicht
 * Bsp.: "Weichen Beobachtete Häufigkeiten von erwarteten Häufigkeiten ab?"
   * Chi-Quadrat-Test
 
-[Zurück zur Übersicht](/..einfaktorielle)
+[Zurück zur Übersicht](voraussetzungen)

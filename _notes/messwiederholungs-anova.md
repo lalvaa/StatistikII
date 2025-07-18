@@ -115,7 +115,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 * F-Wert
   * $F = \dfrac{MS_{\text{Effekt}}}{MS_{\text{Fehler}}}$
 * Jamovi:
-  * ![271x155](/MW.Anova-Jamovi-1.png)
+  * ![271x155](MW.Anova-Jamovi-1.png)
 * G\* Power
   * Zeigt die Teststärke (Power)
   * Wahrscheinlichkeit, einen vorhandenen Effekt zu entdecken

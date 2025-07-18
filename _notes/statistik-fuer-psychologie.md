@@ -23,7 +23,6 @@ Dann kannst du einfach hierüber zu allen Test Zusammenfassungen gehen.
 
 **→ [Signifikanztests auf einem Blick](/signifikanztests-auf-einem-blick)**
 
- [Testlink](/anova)
 
 ### 🧭2: Über Fragen zum passenden Test
 
