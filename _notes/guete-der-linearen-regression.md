@@ -12,7 +12,7 @@ Dieses gibt an wie viel Prozent der Veränderung des Kriteriums (Varianz) durch 
 
 ---
 
-##### <u>Wertebereich:</u>
+### <u>Wertebereich:</u>
 
 * $0\le R^2 \le 1$
   * Große Werte = Gute Vorhersage
@@ -22,7 +22,7 @@ Dieses gibt an wie viel Prozent der Veränderung des Kriteriums (Varianz) durch 
 
 ---
 
-##### <u>Formel für den (multiplen)Determinationskoeffizient R²:</u>
+### <u>Formel für den (multiplen)Determinationskoeffizient R²:</u>
 
 * Einfache Lineare Regression:
   * $R^2=\dfrac{s^2_{\hat{y}}} {s^2_{y}} =\; \; = \dfrac{\text{Regressionsvarianz}}{\text{Gesamtvarianz}}$
@@ -31,7 +31,7 @@ Dieses gibt an wie viel Prozent der Veränderung des Kriteriums (Varianz) durch 
 
 ---
 
-##### <u>Varianzzerlegung:</u>
+### <u>Varianzzerlegung:</u>
 
 * Einfache Lineare Regression
   
@@ -53,7 +53,7 @@ Dieses gibt an wie viel Prozent der Veränderung des Kriteriums (Varianz) durch 
 
 ---
 
-##### <u>Standardschätzfehler (SE):</u>
+### <u>Standardschätzfehler (SE):</u>
 
 * Gibt an wie stark die Werte um die Regressionsgerade streuen
 * $SE = \sqrt {\dfrac{ \sum(y -\hat{y}_i)^2}{n - k - 1}} \;\;=\; \; \sqrt {s^2_{e}}$
@@ -62,7 +62,7 @@ Dieses gibt an wie viel Prozent der Veränderung des Kriteriums (Varianz) durch 
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Einfache Lineare Regression
   * [Einfache-lineare Regression](/einfache-lineare-regression)

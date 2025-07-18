@@ -10,7 +10,7 @@ Danach prüft man mit einem **z-Test**, ob der Unterschied zwischen $Z_r$ und $Z
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Unterscheidet sich die Korrelation zwischen Lernzeit und Prüfungserfolg bei der IPU **signifikant von einem bundesweiten Wert von ρ = 0,5**?“
 
@@ -21,7 +21,7 @@ Danach prüft man mit einem **z-Test**, ob der Unterschied zwischen $Z_r$ und $Z
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * $H_{o}: \rho = \rho_{0}$
 * $H_{1}: \rho \neq \rho_{0}$ (Ungerichtet)
@@ -32,7 +32,7 @@ Danach prüft man mit einem **z-Test**, ob der Unterschied zwischen $Z_r$ und $Z
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * $z_{emp} \ge z_{krit}$
 * $\alpha \ge p$
@@ -40,7 +40,7 @@ Danach prüft man mit einem **z-Test**, ob der Unterschied zwischen $Z_r$ und $Z
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * Metrisch skalierte Variablen
   * Beide Variablen (UV&AV) müssen Intervall- oder Verhältnisskaliert sein
@@ -54,7 +54,7 @@ Danach prüft man mit einem **z-Test**, ob der Unterschied zwischen $Z_r$ und $Z
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. Berechnung empirischer Korrelationswerts $r_{emp}$ der Stichprobe
    * PMK muss berechnet werden$$r_{xy} = \dfrac {\frac{1}{n-1} \cdot \sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{\sigma_x \cdot \sigma_y}$$
@@ -69,7 +69,7 @@ Danach prüft man mit einem **z-Test**, ob der Unterschied zwischen $Z_r$ und $Z
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu Zusammenhangsanalyse:
   * [Zurück zur Übersicht](/z-Tests-fuer-Korrelation)

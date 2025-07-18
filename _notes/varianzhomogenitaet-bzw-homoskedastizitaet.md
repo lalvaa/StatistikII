@@ -14,7 +14,7 @@ Eine Verletzung kann zu **verzerrten Standardfehlern und einer Erhöhten Wahrsch
 
 ---
 
-##### <u>Levene Test:</u>
+### <u>Levene Test:</u>
 
 * Prüft ob beide Stichproben aus Grundgesamtheiten mit den gleichen Varianzen stammen (=Varianzhomogenität) oder ob mögliche Unterschiede nur zufällig sind
 * Wird wie ein 2-seitiger t-test gerechnet
@@ -36,7 +36,7 @@ Eine Verletzung kann zu **verzerrten Standardfehlern und einer Erhöhten Wahrsch
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Voraussetzungspfad:
   * [Voraussetzungen](/varianzhomogenitaet-ja-nein)

@@ -6,7 +6,7 @@ Diese Tests werden verwendet, wenn **Voraussetzungen parametrischer Tests** (z.B
 
 ---
 
-##### <u>Eigenschaften:</u>
+### <u>Eigenschaften:</u>
 
 * Robust
   * Verfahren relativ unempfindlich gegenüber Verletzungen der Voraussetzungen
@@ -21,7 +21,7 @@ Diese Tests werden verwendet, wenn **Voraussetzungen parametrischer Tests** (z.B
 
 ---
 
-##### <u>Warum nicht immer Robuste-non-parametrische Verfahren:</u>
+### <u>Warum nicht immer Robuste-non-parametrische Verfahren:</u>
 
 * Geringere Teststärke (Power)
   * Somit höhere Wahrscheinlichkeit für einen Fehler der 2.Art
@@ -30,7 +30,7 @@ Diese Tests werden verwendet, wenn **Voraussetzungen parametrischer Tests** (z.B
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Varianten:
   * [Mann-Whitney-U-Test](/mann-whitney-u-test)

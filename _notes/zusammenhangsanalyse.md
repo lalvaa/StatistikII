@@ -9,12 +9,12 @@ Korrelation beschreibt, **wie stark zwei metrische Variablen miteinander zusamme
 
 Regression erklärt und nutz einen **Zusammenhang für Vorhersagen.**
 
-##### Typische Verfahren:
+### Typische Verfahren:
 
 * [z-Tests für Korrelation](/z-tests-fuer-korrelation)
 * [Lineare Regression](/lineare-regression)
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zum Start
   * [Signifikanztests auf einem Blick](/signifikanztests-auf-einem-Blick)

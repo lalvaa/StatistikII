@@ -6,7 +6,7 @@ title: Berechnung der Regressiongerade für die einfache lineare Regression
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 * Regressionsgerade  aufstellen
   * $\hat{y} = b_{yx} \cdot x \;+\; a_{yx}$
@@ -34,7 +34,7 @@ title: Berechnung der Regressiongerade für die einfache lineare Regression
 
 ---
 
-##### <u>Vorhersage:</u>
+### <u>Vorhersage:</u>
 
 * Aufgrund der Regressionsgerade kann man eine Vorhersage treffen
   * Z.B.: 5 Stunden Lernzeit
@@ -44,7 +44,7 @@ title: Berechnung der Regressiongerade für die einfache lineare Regression
 
 ---
 
-##### <u>Besondere Formen der Regressionsgerade:</u>
+### <u>Besondere Formen der Regressionsgerade:</u>
 
 * Regressionsgerade bei Nullkorrelation
   * Regressionsgewicht: $b=0$
@@ -61,6 +61,6 @@ title: Berechnung der Regressiongerade für die einfache lineare Regression
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * [Einfache-lineare Regression](/einfache-lineare-regression)

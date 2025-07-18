@@ -15,7 +15,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Lässt sich der Prüfungserfolg durch die Lernzeit vorhersagen?“
 
@@ -24,7 +24,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * $H_0:\beta_1 =0$
   * Der Prädiktor hat keinen Einfluss auf das Kriterium
@@ -36,7 +36,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 
 ---
 
-##### <u>Interpretation der Ergebnisse:</u>
+### <u>Interpretation der Ergebnisse:</u>
 
 * $R^2$ (Güte der linearen Regression):
   * Prozentangabe
@@ -68,7 +68,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 
 ---
 
-##### <u>Jamovi Output:</u>
+### <u>Jamovi Output:</u>
 
 * Dieser wird hier nur als Jamovi output angegeben und muss nicht selbst berechnet werden.
 
@@ -110,7 +110,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 
 ---
 
-##### <u>Voraussetzungen</u>
+### <u>Voraussetzungen</u>
 
 * Unabhängigkeit
   * Werte der einzelnen Personen müssen unabhängig voneinander sein
@@ -137,13 +137,13 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 
 ---
 
-##### <u>Residuen:</u>
+### <u>Residuen:</u>
 
 Abweichungen zwischen den tatsächlichen Werten und den vom Regressionsmodell vorhergesagten Werten
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu Zusammenhangsanalyse:
   * [Zurück zur Übersicht](/lineare-regression)

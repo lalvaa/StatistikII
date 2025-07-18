@@ -6,14 +6,14 @@ T-Tests prüfen Unterschiede von **Mittelwerten einer oder zweier Gruppen** und 
 
 ---
 
-##### <u>Varianten:</u>
+### <u>Varianten:</u>
 
 * [Einstichproben t-Test](/einstichproben-t-test)
 * [t-Test Für Abhängige Stichproben](/t-test-fuer-abhaengige-stichproben)
 * [t-Test für Unabhängige Stichproben](/t-test-fuer-unabhaengige-stichproben)
 * [Welsh-Test](/welsh-test)
 
-##### Navigation
+### Navigation
 
 * Testen der Voraussetzungen:
   

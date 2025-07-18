@@ -9,13 +9,13 @@ Es werden keine Abstände, Ränge oder Mittelwerte genommen, stattdessen Bestimm
 
 ---
 
-##### <u>Varianten:</u>
+### <u>Varianten:</u>
 
 * [x²x2-anpassungstest](/x2-anpassungstest)
 * [x²-4 Felder Test](/x2-4-felder-test)
 * [Mc Nemar-Test](/mc-nemar-test)
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zum Start
   * [Signifikanztests auf einem Blick](/signifikanztests-auf-einem-Blick)

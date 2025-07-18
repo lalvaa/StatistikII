@@ -142,9 +142,6 @@ code {
   color: #ccc;
   cursor: help;
 }
-.backlinks,
-.backlink-box,
-.mention,
-.related-notes {
-  display: none;
+.backlink-box {
+  display: none !important;
 }

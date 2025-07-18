@@ -15,7 +15,7 @@ Kann ein- oder zweiseitig getestet werden.
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig meditieren, und solchen, die nicht meditieren?
 
@@ -24,13 +24,13 @@ Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig
 
 ---
 
-##### <u>Voraussetzung:</u>
+### <u>Voraussetzung:</u>
 
 * Mindestens Ordinalskalierte Daten
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * H<sub>0</sub>: U<sub>u</sub>=U<sub>ü</sub>
 * H<sub>1</sub>: U<sub>u</sub> $\neq$ U<sub>ü</sub>
@@ -38,7 +38,7 @@ Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * U<sub>emp</sub> $\le$ U<sub>krit</sub> (hier anders als normalerweise)
 * Ab n $\ge$ 20:
@@ -47,7 +47,7 @@ Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 * Für n \< 50
   
@@ -78,7 +78,7 @@ Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu Robuste-non-parametrische Verfahren:
   

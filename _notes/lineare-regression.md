@@ -10,14 +10,14 @@ Korrelation zeigt einen Zusammenhang, Regression erklärt und nutzt ihn für Vor
 
 ---
 
-##### <u>Formen der Regression:</u>
+### <u>Formen der Regression:</u>
 
 * [Einfache-lineare Regression](/einfache-lineare-regression)
 * [Multiple Lineare Regression](/multiple-lineare-regression)
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zusammenhangsanalyse
   * [Zurück zur Übersicht](/zusammenhangsanalyse)

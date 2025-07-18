@@ -16,7 +16,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „In der Kontrastanalyse wurde getestet, ob sich bei Medikamenteneinnahme die Gruppe mit einer hohen Dosis (C) signifikant vom Depressions-Durchschnitt der Gruppen Placebo (A) und niedrige Dosis (B) unterscheidet."
 
@@ -27,7 +27,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Wie funktioniert’s?</u>
+### <u>Wie funktioniert’s?</u>
 
 * Jede Hypothese wird als **Kontrast** formuliert:
   * Man weist den Gruppen **Kontrastkoeffizienten** zu, die sich zu 0 addieren.
@@ -36,7 +36,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Voraussetzung:</u>
+### <u>Voraussetzung:</u>
 
 * AV metrisch skaliert
 * Normalverteilte AV
@@ -50,7 +50,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Interpretation der Ergebnisse:</u>
+### <u>Interpretation der Ergebnisse:</u>
 
 * Kontrastwert
   * Für jeden Kontrast wird ein eigener Wert berechnet
@@ -78,7 +78,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Jamovi, R Outputs und G\* Power:</u>
+### <u>Jamovi, R Outputs und G\* Power:</u>
 
 * Kontrastwert
   * Gibt die gerichtete Differenz zwischen Gruppenmittelwerten an, basierend auf vorgegebenen Kontrastgewichten
@@ -105,7 +105,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. Kontraste definieren
    * Vorab geplante Gewichtungen zwischen Gruppen (Kontrastgewichte)
@@ -130,7 +130,7 @@ Das Ziel ist es Herauszufinden, **welche spezifischen Unterschiede zwischen Grup
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu ANOVA:
   * [Zurück zur Übersicht](/anova)

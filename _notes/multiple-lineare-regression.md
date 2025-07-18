@@ -17,7 +17,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Lässt sich der Prüfungserfolg durch Lernzeit, Motivation und Schlafdauer vorhersagen?“
 
@@ -26,7 +26,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Hypothesen</u>
+### <u>Hypothesen</u>
 
 * Es gibt 2 Unterschiedliche Arten der Hypothesen für die multiple lineare Regression
 
@@ -46,7 +46,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Interpretation der Ergebnisse:</u>
+### <u>Interpretation der Ergebnisse:</u>
 
 * $R^2$ (Güte der linearen Regression):
   * Multipler Determinationskoeffizient
@@ -95,7 +95,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Jamovi Output:</u>
+### <u>Jamovi Output:</u>
 
 * Wir werden meist einen Jamovi Output bei der Klausur bekommen welchen wir dann interpretieren müsse
 
@@ -141,7 +141,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Voraussetzungen</u>
+### <u>Voraussetzungen</u>
 
 * Unabhängigkeit
   * Werte der einzelnen Personen müssen unabhängig voneinander sein
@@ -172,7 +172,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Supressoreffekt:</u>
+### <u>Supressoreffekt:</u>
 
 * Ein Prädiktor der kaum oder gar nicht mit dem Kriterium korreliert allerdings trzdm. die Vorhersage verbessert
   * Aufgrund von starker Korrelation mit einem anderen Prädiktor
@@ -182,7 +182,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu Lineare Regression:
   * [Zurück zur Übersicht](/lineare-regression)

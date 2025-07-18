@@ -8,26 +8,26 @@ Wir beobachten wie häufig einzelne Merkmalsausprägungen vorkommen und Überpr�
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Weicht die beobachtete Verteilung der Lieblingsjahreszeit unter Studierenden von einer Gleichverteilung ab?“
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * H<sub>0</sub>: beobachtete Verteilung entspricht der erwarteten Häufigkeitsverteilung
 * H<sub>1</sub>: Die beobachtete Verteilung weicht von der erwarteten Verteilung ab
 
 ---
 
-##### <u>Voraussetzung:</sub>
+### <u>Voraussetzung:</sub>
 
 * Nominalskalierte Variable
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * ${x_{emp}}^2 > {x_{krit}}^2$
 * $\alpha \ge p$
@@ -35,7 +35,7 @@ Wir beobachten wie häufig einzelne Merkmalsausprägungen vorkommen und Überpr�
 
 ---
 
-##### <u>Prüfgröße:</u>
+### <u>Prüfgröße:</u>
 
 * ${x_{emp}}^2 = \sum_{j}^{k} \dfrac{ (n_{bj} - n_{ej})^2}{n_{ej}}$
   * $n_{bj}$ = Beobachtete Häufigkeit der Kategorie j
@@ -46,7 +46,7 @@ Wir beobachten wie häufig einzelne Merkmalsausprägungen vorkommen und Überpr�
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu Chi-Quadrat-Tests:
   

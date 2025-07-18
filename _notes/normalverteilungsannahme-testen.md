@@ -14,7 +14,7 @@ Die Tests und Visualisierungen (Q-Q-Plot, Histogramm, Shapiro-Wilk etc.) bleiben
 
 ---
 
-##### <u>Varianten:</u>
+### <u>Varianten:</u>
 
 1. Grafische Analyse: Q-Q Plot
    
@@ -61,7 +61,7 @@ Die Tests und Visualisierungen (Q-Q-Plot, Histogramm, Shapiro-Wilk etc.) bleiben
    * Prüfgröße D<sub>max</sub>:
      * x-Wert bei dem die Differenz zwischen empirischen und theoretischer Verteilung maximal ist
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Voraussetzungspfad:
   

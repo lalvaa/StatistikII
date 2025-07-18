@@ -9,7 +9,7 @@ Der t-Test für 2 unabhängige Stichproben prüft ob ein Unterschied in der UV e
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 Gibt es einen Unterschied im Stressniveau zwischen Studierenden die regelmäßig Sport treiben und welche die keinen Sport treiben?
 
@@ -20,7 +20,7 @@ Gibt es einen Unterschied im Stressniveau zwischen Studierenden die regelmäßig
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * Normalverteilung:
   * Daten der Grundgesamtheit müssen normalverteilt sein
@@ -32,7 +32,7 @@ Gibt es einen Unterschied im Stressniveau zwischen Studierenden die regelmäßig
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * Gerichtet:
   * **H₀**: μ<sub>1</sub> = μ<sub>2</sub>
@@ -43,7 +43,7 @@ Gibt es einen Unterschied im Stressniveau zwischen Studierenden die regelmäßig
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * \| t<sub>df</sub> | ≥ t<sub>krit</sub>
 * oder p ≤ α
@@ -51,7 +51,7 @@ Gibt es einen Unterschied im Stressniveau zwischen Studierenden die regelmäßig
 
 ---
 
-##### <u>Formeln:</u>
+### <u>Formeln:</u>
 
 * t<sub>df</sub> für n<sub>1</sub>=n<sub>2</sub>:
   $$t_{df} = \frac{\bar{x}_1 - \bar{x}_2}
@@ -69,7 +69,7 @@ $$
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu T-Tests
   

@@ -11,7 +11,7 @@ Dieser wird verwendet, wenn die Varianzen der beiden Gruppen ungleich sind.
 
 ---
 
-##### Beispiel:
+### Beispiel:
 
 Gibt es einen Unterschied im Prüfungsstress zwischen Studierenden an zwei Universitäten (Stress-werte streuen unterschiedlich stark) ?
 
@@ -22,7 +22,7 @@ Gibt es einen Unterschied im Prüfungsstress zwischen Studierenden an zwei Unive
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * Normalverteilung:
   * Daten der Grundgesamtheit müssen normalverteilt sein
@@ -32,7 +32,7 @@ Gibt es einen Unterschied im Prüfungsstress zwischen Studierenden an zwei Unive
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * Gerichtet:
   * **H₀**: μ<sub>1</sub> = μ<sub>2</sub>
@@ -43,7 +43,7 @@ Gibt es einen Unterschied im Prüfungsstress zwischen Studierenden an zwei Unive
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * \| t<sub>df</sub> | ≥ t<sub>krit</sub>
 * oder p ≤ α
@@ -51,7 +51,7 @@ Gibt es einen Unterschied im Prüfungsstress zwischen Studierenden an zwei Unive
 
 ---
 
-##### <u>Formeln:</u>
+### <u>Formeln:</u>
 
 * t<sub>df</sub>
   $$
@@ -70,7 +70,7 @@ $$
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu T-Tests:
   

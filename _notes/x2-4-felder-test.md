@@ -11,7 +11,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Unterscheidet sich die Prüfungsangst (ja/nein) zwischen Studierenden aus Bachelor- und Masterstudiengängen?“
 
@@ -20,7 +20,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * H<sub>0</sub>: zwischen den 2 Gruppen besteht kein Zusammenhang in der Population
   * Häufigkeit bzw. Anteile sind gleich
@@ -29,13 +29,13 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
 
 ---
 
-##### <u>Voraussetzung:</sub>
+### <u>Voraussetzung:</sub>
 
 * Nominalskalierte Variable
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * ${x_{emp}}^2 > {x_{krit}}^2$
 * $\alpha \ge p$
@@ -43,7 +43,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
 
 ---
 
-##### <u>Prüfgröße x²:</u>
+### <u>Prüfgröße x²:</u>
 
 * ${x_{emp}}^2 = \sum_{i=1}^{k} \sum_{j=1}^{l} \dfrac{ (n_{bij} - n_{eij})^2}{n_{eij}}$
   * $n_{bij}$ = Anzahl beobachteter Häufigkeit der Merkmalskombination ij
@@ -55,7 +55,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu Chi-Quadrat-Tests:
   

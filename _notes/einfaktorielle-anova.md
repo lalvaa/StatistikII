@@ -18,7 +18,7 @@ Die ANOVA ist ein erweiterter t-test. Auch hier wollen wir die Nullhypothese abl
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den Studiengängen Psychologie, Jura und Maschinenbau.
 
@@ -28,7 +28,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 
 ---
 
-##### <u>Hypothesen</u>
+### <u>Hypothesen</u>
 
 * $H_0: \mu_1 = \mu_2 = \; .; = \mu_p$
   * Es gibt keinen Unterschied zwischen den Populationsmittelwerten
@@ -37,7 +37,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * AV metrisch skaliert
 * Normalverteilte AV
@@ -49,7 +49,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 
 ---
 
-##### <u>Interpretation der Ergebnisse:</u>
+### <u>Interpretation der Ergebnisse:</u>
 
 * $F-Wert$ :
   * Der F-Wert ist an sich wie der t-Wert
@@ -105,7 +105,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 
 ---
 
-##### <u>Jamovi, R Outputs und G\* Power:</u>
+### <u>Jamovi, R Outputs und G\* Power:</u>
 
 * Residuals
   * Fehlervarianz bzw. Varianz innerhalb der Gruppen
@@ -141,7 +141,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. Variationen bilden
    * Quadratsumme der Gesamtvariation
@@ -176,7 +176,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu ANOVA:
   * [Zurück zur Übersicht](/anova)

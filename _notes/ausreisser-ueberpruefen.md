@@ -11,7 +11,7 @@ Eine Voraussetzung der Multiplen Regression ist es keine starken Ausreißer zu h
 
 \_\_\_-
 
-##### <u>Cook´s Distance:</u>
+### <u>Cook´s Distance:</u>
 
 * Zeigt wie stark ein Datenpunkt das Regressionsmodell beeinflusst
 * In Jamovi:
@@ -25,6 +25,6 @@ Eine Voraussetzung der Multiplen Regression ist es keine starken Ausreißer zu h
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * [Multiple Lineare Regression](/Multiple-lineare-regression)

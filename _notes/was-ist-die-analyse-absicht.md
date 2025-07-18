@@ -2,14 +2,15 @@
 title: Was ist die Analyse Absicht
 ---
 
-\*\*Zusammenhangs-Analyse oder Vorhersage:
+### Zusammenhangs-Analyse oder Vorhersage:</u>
 
 * [Zusammenhang oder Vorhersage](/zusammenhang-oder-vorhersage)
 
-\*\*Gruppenunterschied oder Häufigkeitsverteilung:
+### <u>Gruppenunterschied oder Häufigkeitsverteilung:</u>
 
 * [Normalverteilung und AV prüfen](/normalverteilung-und-av-pruefen)
-
+___
+<br><br>
 <u>Zusammenhangsanalyse:</u>
 
 * Bsp.: "Gibt es einen Zusammenhang zwischen Lernzeit und Prüfungsleistung?"
@@ -31,4 +32,4 @@ title: Was ist die Analyse Absicht
 * Bsp.: "Weichen Beobachtete Häufigkeiten von erwarteten Häufigkeiten ab?"
   * Chi-Quadrat-Test
 
-[Zurück zur Übersicht](voraussetzungen)
+[Zurück zur Übersicht](/voraussetzungen)

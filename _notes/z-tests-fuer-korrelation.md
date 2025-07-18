@@ -10,7 +10,7 @@ Zuerst wird der empirische Korrelationswert berechnet. Dieser ist allerdings nic
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Varianten:
   * [1-Stichprobentest](/1-stichprobentest)

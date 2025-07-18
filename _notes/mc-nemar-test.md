@@ -9,7 +9,7 @@ Es werden die Personen betrachtet, die zwischen den 2 Messungen die Kategorie ge
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Hat sich die Einstellung zu Online-Lehre (ja/nein) bei denselben Studierenden vor und nach der Pandemie verändert?“
 
@@ -18,7 +18,7 @@ Es werden die Personen betrachtet, die zwischen den 2 Messungen die Kategorie ge
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * H<sub>0</sub>: Es gibt keinen Unterschied in der Einstellung aufgrund der UV
   * Genauso viele Personen wechseln von + zu - oder andersherum
@@ -28,13 +28,13 @@ Es werden die Personen betrachtet, die zwischen den 2 Messungen die Kategorie ge
 
 ---
 
-##### <u>Voraussetzung:</sub>
+### <u>Voraussetzung:</sub>
 
 * Nominalskalierte Variable
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * ${x_{emp}}^2 \ge {x_{krit}}^2$
 * $\alpha \ge p$
@@ -42,14 +42,14 @@ Es werden die Personen betrachtet, die zwischen den 2 Messungen die Kategorie ge
 
 ---
 
-##### <u>Prüfgröße x²:</u>
+### <u>Prüfgröße x²:</u>
 
 * ${x_{emp}}^2 = \dfrac{(b - c)}{b+c}$
   ![311x123](_notes/Mc-Nemar-Test.png)
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu Chi Quadrat Test:
   

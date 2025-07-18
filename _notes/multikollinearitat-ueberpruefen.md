@@ -7,7 +7,7 @@ Diese liegt bot wenn Prädiktoren stark miteinander korrelieren, oder ein Prädi
 
 ---
 
-##### <u>Problem:</u>
+### <u>Problem:</u>
 
 * Die Regressionskoeffizienten werden verzerrt geschätzt
   * Schwierig oder unmöglich den Einfluss einzelner Prädiktoren sinnvoll zu interpretieren
@@ -17,7 +17,7 @@ Diese liegt bot wenn Prädiktoren stark miteinander korrelieren, oder ein Prädi
 
 ---
 
-##### <u>Lösung:</u>
+### <u>Lösung:</u>
 
 * VIF (Variations-Inflations-Faktor)
   * Misst wie stark die Varianz eines Regressionsgewichts durch Multikollinearität verzerrt wird
@@ -30,6 +30,6 @@ Diese liegt bot wenn Prädiktoren stark miteinander korrelieren, oder ein Prädi
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 [Multiple Lineare Regression](/Multiple-lineare-regression)

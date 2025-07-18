@@ -9,7 +9,7 @@ Kann ein- oder zweiseitig getestet werden.
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübung?
 
@@ -19,13 +19,13 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 
 * ---
 
-##### <u>Voraussetzungen:</sub>
+### <u>Voraussetzungen:</sub>
 
 * Intervallskalierte Merkmale
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * H<sub>0</sub>: Median der Differenzen $\neq$ 0
   * Die Summe der Ranplatzverschlechterungen (T<sub>p</sub>) und Rangplatzverbesserungen(T<sub>m</sub>) sind gleich
@@ -33,7 +33,7 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * T<sub>emp</sub> \< T<sub>krit</sub>
   * Signifikant und Nullhypothese wird abgelehnt
@@ -43,7 +43,7 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. Absolutbetrag der Differenz zwischen den Werten der Gruppe 1 und der Gruppe 2 bilden:
    * \| x<sub>1,n</sub> -x<sub>2,n</sub> |
@@ -63,7 +63,7 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Robuste-non-parametrische Verfahren
   * [Zurück zur Übersicht](/robuste-non-parametrische-verfahren)

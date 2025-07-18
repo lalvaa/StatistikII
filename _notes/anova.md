@@ -13,14 +13,14 @@ Wenn die zwischen-Gruppen-Varianz im Verhältnis zur innerhalb-Gruppen-Varianz g
 
 ---
 
-##### <u>Varianten:</u>
+### <u>Varianten:</u>
 
 * [Einfaktorielle ANOVA](/einfaktorielle-anova)
 * [Mehrfaktorielle ANOVA](/mehrfaktorielle-anova)
 * [Messwiederholungs ANOVA](/messwiederholungs-anova)
 * [Kontrastanalyse](/kontrastanalyse)
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Testen der Voraussetzungen:
   * [Normalverteilungsannahme testen](/normalverteilungsannahme-testen)

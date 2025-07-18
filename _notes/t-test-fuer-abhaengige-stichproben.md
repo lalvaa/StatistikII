@@ -9,7 +9,7 @@ Der t-Test für Abhängige Stichproben prüft ob sich die Mittelwerte von 2 Stic
 
 ---
 
-##### Beispiel:
+### Beispiel:
 
 Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vor und nach einer Aufmerksamkeitsübung?
 
@@ -22,7 +22,7 @@ Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vo
 
 ---
 
-##### <u>Abhängigkeit aufgrund von:</u>
+### <u>Abhängigkeit aufgrund von:</u>
 
 * Messwiederholung
 * 2 verschiedene Messinstrumente
@@ -33,7 +33,7 @@ Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vo
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * Normalverteilung
   * Daten der Grundgesamtheit sind normalverteilt
@@ -45,7 +45,7 @@ Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vo
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * Gerichtet:
   * **H₀**: x̄<sub>D</sub> = 0
@@ -56,7 +56,7 @@ Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vo
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * \| t<sub>df</sub> | ≥ t<sub>krit</sub>
 * oder p ≤ α
@@ -64,7 +64,7 @@ Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vo
 
 ---
 
-##### <u>Formeln:</u>
+### <u>Formeln:</u>
 
 * t<sub>df</sub> :
   $$t_{df} = \frac{\bar{x_{D}}}{SE_{D}} \quad \text{oder} \quad t_{df} = \sqrt{n} \cdot \frac{\bar{x_{D}}}{SD_{D}}$$
@@ -81,7 +81,7 @@ Gibt es einen Unterschied im durchschnittlichen Stressniveau von Studierenden vo
 
 ---
 
-##### Navigation:
+### Navigation:
 
 * Zurück zu Stichproben:
   

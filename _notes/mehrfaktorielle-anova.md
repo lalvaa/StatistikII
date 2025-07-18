@@ -13,7 +13,7 @@ Die ANOVA ist ein erweiterter t-test. Auch hier wollen wir die Nullhypothese abl
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)** und **Tageszeit (Vormittag vs. Nachmittag)** auf die **Konzentrationsleistung** auswirken.
 
@@ -25,7 +25,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 ---
 
-##### <u>Zu Untersuchen:</u>
+### <u>Zu Untersuchen:</u>
 
 * Haupteffekt
   * Beeinflussen **die einzelnen Faktoren unabhängig voneinander** die abhängige Variable (AV)?
@@ -34,7 +34,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * **H₀ (Für jeden Faktor j):**
   * Die Mittelwerte der Stufen von diesem Faktor unterscheiden sich **nicht**
@@ -55,7 +55,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * AV metrisch skaliert
 * Normalverteilte AV
@@ -67,7 +67,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 \_\_\_-
 
-##### <u>Interpretation der Ergebnisse:</u>
+### <u>Interpretation der Ergebnisse:</u>
 
 * $F-Wert$
   * Für **jeden einzelnen Effekt (Haupteffekte & Interaktionen)** wird **ein eigener F-Wert** berechnet.
@@ -126,7 +126,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 ---
 
-##### <u>Jamovi, R Outputs und G\* Power:</u>
+### <u>Jamovi, R Outputs und G\* Power:</u>
 
 * Residuals (Fehlervarianz)
   * **Fehlervarianz** bzw. **Varianz innerhalb der Gruppen**
@@ -170,7 +170,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. **Variationen bilden**
    * **Gesamtvariation (Quadratsumme Gesamt)**
@@ -211,7 +211,7 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu ANOVA:
   * [Zurück zur Übersicht](/anova)

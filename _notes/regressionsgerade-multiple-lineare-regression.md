@@ -6,7 +6,7 @@ title: Berechnung der Regressionsgerade für die Multiple lineare Regression
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 * Regressionsgerade aufstellen
   * $\hat{y}_i = b_{1} + x_{1i} \;+\; b_{2} \cdot x_{2i} \; + ... + \; b_{k} \cdot x_{ki} + b_0$
@@ -23,7 +23,7 @@ title: Berechnung der Regressionsgerade für die Multiple lineare Regression
 
 ---
 
-##### <u>Vorhersage:</u>
+### <u>Vorhersage:</u>
 
 * Aufgrund der Regressionsgerade kann man eine Vorhersage treffen
   * Z.B.: 5 Stunden Lernzeit und 3 Stunden gespielt
@@ -33,7 +33,7 @@ title: Berechnung der Regressionsgerade für die Multiple lineare Regression
 
 ---
 
-##### <u>Z-Standardisierung:</u>
+### <u>Z-Standardisierung:</u>
 
 * Z-Standardisierung der Werte
   * $z_i  = \dfrac {x_i - \bar{x}} {SD}$
@@ -57,6 +57,6 @@ title: Berechnung der Regressionsgerade für die Multiple lineare Regression
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * [Multiple Lineare Regression](/multiple-lineare-regression)

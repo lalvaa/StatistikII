@@ -9,7 +9,7 @@ Der Einstichproben t-test vergleicht Mittelwerte (x̄) einer Stichprobe mit eine
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 Unterscheidet sich der durchschnittliche Stress-wert von Studierenden an der IPU (x̄) von dem bundesweiten Mittelwert (μ) ?
 

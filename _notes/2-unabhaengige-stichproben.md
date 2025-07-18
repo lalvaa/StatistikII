@@ -10,7 +10,7 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Unterscheidet sich der Zusammenhang zwischen Lernzeit und Prüfungserfolg bei Bachelor- vs. Master studierenden?“
 
@@ -20,7 +20,7 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * $H_{o}: \rho_1 = \rho_{1}$
   * Die Korrelationen unterscheiden sich nicht
@@ -30,7 +30,7 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 ---
 
-##### <u>Entscheidung:</u>
+### <u>Entscheidung:</u>
 
 * $z_{emp} \ge z_{krit}$
 * $\alpha \ge p$
@@ -38,7 +38,7 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * Metrisch skalierte Variablen
   * Beide Variablen (UV&AV) müssen Intervall- oder Verhältnisskaliert sein
@@ -51,7 +51,7 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. Berechnung empirischer Korrelationswerts $r$ der 2 Stichprobe
    * PMK muss berechnet werden$$r_{xy} = \dfrac {\frac{1}{n-1} \cdot \sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{\sigma_x \cdot \sigma_y}$$
@@ -64,7 +64,7 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu Zusammenhangsanalyse:
   * [z-Tests für Korrelation](/z-Tests-fuer-Korrelation)

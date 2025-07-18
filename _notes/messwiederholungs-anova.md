@@ -11,7 +11,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 ---
 
-##### <u>Beispiel:</u>
+### <u>Beispiel:</u>
 
 „Untersucht wird, ob sich der Stresslevel bei denselben Personen über drei Zeitpunkte (vor, während und nach einer Prüfung) unterscheidet.“
 
@@ -22,7 +22,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 ---
 
-##### <u>Hypothesen:</u>
+### <u>Hypothesen:</u>
 
 * $H_0: \mu_1 = \mu_2 = \; .; = \mu_p$
   * Die Mittelwerte der Faktoren bei den 3 Faktorstufen unterscheiden sich nicht
@@ -31,7 +31,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 ---
 
-##### <u>Voraussetzungen:</u>
+### <u>Voraussetzungen:</u>
 
 * AV metrisch skaliert
 * Normalverteilte AV
@@ -47,7 +47,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 \_\_\_-
 
-##### <u>Interpretation der Ergebnisse:</u>
+### <u>Interpretation der Ergebnisse:</u>
 
 * $F-Wert$:
   * Für jeden Effekt (z. B. Zeit, Gruppenzugehörigkeit, Interaktionen) wird ein eigener F-Wert berechnet.
@@ -93,7 +93,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 ---
 
-##### <u>Jamovi, R Outputs und G\* Power:</u>
+### <u>Jamovi, R Outputs und G\* Power:</u>
 
 * Residuals (Fehlervarianz)
   * Fehlervarianz bzw. Varianz innerhalb der Personen
@@ -124,7 +124,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 ---
 
-##### <u>Vorgehen:</u>
+### <u>Vorgehen:</u>
 
 1. Variationen bilden
    * Gesamtvariation (Quadratsumme gesamt)
@@ -154,7 +154,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
 
 ---
 
-##### <u>Navigation:</u>
+### <u>Navigation:</u>
 
 * Zurück zu ANOVA:
   * [Zurück zur Übersicht](/anova)
