@@ -10,4 +10,4 @@ Anfang:
 
 ---
 
-[Zurück zur Übersicht](/statistik-fuer-psychologie)
+[Zurück zur Übersicht](../statistik-fuer-psychologie)
