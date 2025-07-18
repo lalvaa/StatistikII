@@ -51,7 +51,7 @@ Es wird geprüft ob zwischen beiden Merkmalen ein Zusammenhang besteht und ob di
   * k = Anzahl der Stufen des Merkmals A
   * l = Anzahl der Stufen des Merkmals B
   * df = k-1
-    ![285x336](x2-4-Felder-Test-2.png)![342x107](x2-4-Felder-Test-1.png)
+    ![285x336](_notes/x2-4-Felder-Test-2.png)![342x107](_notes/x2-4-Felder-Test-1.png)
 
 ---
 

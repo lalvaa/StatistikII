@@ -22,13 +22,13 @@ Die Tests und Visualisierungen (Q-Q-Plot, Histogramm, Shapiro-Wilk etc.) bleiben
    * Normalverteilt:
      * Punkte liegen auf einer Linie
      * Leichte Schwankungen meist trzdm zu erkennen
-       ![363x169](Q-Q-Plot-NVT.png)
+       ![363x169](_notes/Q-Q-Plot-NVT.png)
    * Schiefe Verteilung:
-     * Viele Werte sind kleiner/größer als erwartet			![362x155](Q-Q-Plot-Schief.png)
+     * Viele Werte sind kleiner/größer als erwartet			![362x155](_notes/Q-Q-Plot-Schief.png)
    * Leptokurtisch
      * Starke Kniche an beiden Enden
      * Datenverteilung sehr gehäuft in der Mitte
-       ![361x183](Q-Q-Plot-Leptokurtisch.png)
+       ![361x183](_notes/Q-Q-Plot-Leptokurtisch.png)
 1. Für n\<50: Shapiro-Wilk-Test
    
    * Hypothesentest:

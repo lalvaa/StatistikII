@@ -118,7 +118,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
     * Der Wert des Kriteriums wenn die Prädiktoren 0 sind
 * Beispiel in Jamovi:
   
-  * ![395x180](Tabelle-Jamovi-MLR.png)
+  * ![395x180](_notes/Tabelle-Jamovi-MLR.png)
   * "Hängt Dans Grumpyness mit seiner Menge an Schlaf und der Menge an Schlaf zusammen die sein Baby schläft?"
     * UV/Prädiktor/dan.sleep:
       * Signifikanz des Prädiktors:
@@ -150,7 +150,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
   * Gegeben durch eine Gleichung
     * $E(y\;|\; x_1 , ... ,x_k) = \beta_{0} + \beta_1 \cdot x_1 \; + ... + \; \beta_k \cdot x_k$
   * Lineare Zusammenhänge = Wenn x-Werte steigen/sinken, steigen/sinken y -Werte
-  * ![277x199](Nicht-lineare-Zusammenhaenge.png)
+  * ![277x199](_notes/Nicht-lineare-Zusammenhaenge.png)
 * Metrisches Skalenniveaus des Kriteriums
   * AV muss Metrisch skaliert sein (Intervall / Verhältnis)
   * UV kann beliebiges Skalenniveau besitzen
@@ -163,7 +163,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
   * "Fehler sind überall gleich verteilt, unabhängig vom Wert des Pradiktoren"
   * Überprüfung durch Arrayverteilung
     * Verteilung der Residuen (Z.B. Grafisch)
-    * ![254x84](Arrayverteilung.png)
+    * ![254x84](_notes/Arrayverteilung.png)
 * Keine Multikollinearität
   * Die UVs dürfen nicht stark miteinander korrelieren
 * Additivität
