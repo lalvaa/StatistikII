@@ -14,4 +14,4 @@ Varianzhomogenität nicht gegeben:
 
 * [Varianzhomogenität bzw. Homoskedastizität](/varianzhomogenitaet-bzw-homoskedastizitaet)
 
-[Zurück zur Übersicht](/einfaktorielle-abhaengigkeit-nvt)
+[Zurück zur Übersicht](/abhaengigkeit-nvt)

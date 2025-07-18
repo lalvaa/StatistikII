@@ -8,6 +8,6 @@ Wie viele Stichproben gibt es?
 [Einstichproben t-Test](/einstichproben-t-test)
 
 2 Stichproben:
-[Abhängigkeit (NVT)](/einfaktorielle-abhaengigkeit-nvt)
+[Abhängigkeit (NVT)](/abhaengigkeit-nvt)
 
 [Zurück zur Übersicht](/faktorstufen)

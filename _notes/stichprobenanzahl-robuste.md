@@ -9,6 +9,6 @@ Wie Viele Stichproben gibt es?
 
 2 Stichproben
 
-* [Abhängigkeit](/einfaktorielleabhaengigkeit)
+* [Abhängigkeit](/abhaengigkeit)
 
 [Zurück zur Übersicht](/skalenniveau-av)

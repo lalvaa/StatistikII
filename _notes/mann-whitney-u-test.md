@@ -85,6 +85,6 @@ Gibt es einen Unterschied im Stressempfinden zwischen Personen, die regelmäßig
   * [Zurück zur Übersicht](/robuste-non-parametrische-verfahren)
 * Zurück zu Voraussetzungen:
   
-  * [Voraussetzungen](/Voraussetzungen\Abhaengigkeit\abhaengigkeit)
+  * [Voraussetzungen](abhaengigkeit)
 
 \#Test
