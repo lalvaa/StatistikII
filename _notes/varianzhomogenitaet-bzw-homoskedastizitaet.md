@@ -28,9 +28,11 @@ Eine Verletzung kann zu **verzerrten Standardfehlern und einer Erhöhten Wahrsch
 * Formel:
   * t<sub>df</sub>$$t_{df} = \frac{\bar{x}_{1d} - \bar{x}_{2d}}{\sqrt{ \frac{\hat{\sigma}_{1d}^2}{n_1} + \frac{\hat{\sigma}_{2d}^2}{n_2} }}$$
   
-  * Mittelwerte $$\bar{x}_{1d} = \frac{\sum_{i=1}^{n} \left| x_{di} - \bar{x}_1 \right|}{n_1}\; \text{;} \qquad \bar{x}_{2d} = \frac{\sum_{i=1}^{n} \left| x_{di} -\bar{x}_2 \right|}{n_2}$$
+  * Mittelwerte 
+    * $$\bar{x}_{1d} = \frac{\sum_{i=1}^{n} \left| x_{di} - \bar{x}_1 \right|}{n_1}\; \text{;} \qquad \bar{x}_{2d} = \frac{\sum_{i=1}^{n} \left| x_{di} -\bar{x}_2 \right|}{n_2}$$
   
-  * Varianzen $$\hat{\sigma}_{1d}^2 = \sqrt{ \frac{ \sum_{i=1}^{n} \left( x_{di,1} - \bar{x}_{1d} \right)^2 }{n - 1} } \; \text{;} \qquad \hat{\sigma}_{2d}^2 = \sqrt{ \frac{ \sum_{i=1}^{n} \left( x_{di,2} - \bar{x}_{2d} \right)^2 }{n - 1} }$$
+  * Varianzen 
+    * $$\hat{\sigma}_{1d}^2 = \sqrt{ \frac{ \sum_{i=1}^{n} \left( x_{di,1} - \bar{x}_{1d} \right)^2 }{n - 1} } \; \text{;} \qquad \hat{\sigma}_{2d}^2 = \sqrt{ \frac{ \sum_{i=1}^{n} \left( x_{di,2} - \bar{x}_{2d} \right)^2 }{n - 1} }$$
   
   * d =  Anzahl der Messwerte
 
