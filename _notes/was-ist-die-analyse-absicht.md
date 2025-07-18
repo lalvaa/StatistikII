@@ -9,8 +9,12 @@ title: Was ist die Analyse Absicht
 ### <u>Gruppenunterschied oder Häufigkeitsverteilung:</u>
 
 * [Normalverteilung und AV prüfen](/normalverteilung-und-av-pruefen)
-___
+
+---
+
 <br><br>
+
+
 <u>Zusammenhangsanalyse:</u>
 
 * Bsp.: "Gibt es einen Zusammenhang zwischen Lernzeit und Prüfungsleistung?"
