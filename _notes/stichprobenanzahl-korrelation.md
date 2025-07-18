@@ -1,5 +1,5 @@
 ---
-title: stichprobenanzahl Korrelation
+title: Stichprobenanzahl Korrelation
 ---
 
 Wie viele Stichproben:

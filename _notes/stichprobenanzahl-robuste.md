@@ -1,5 +1,5 @@
 ---
-title: stichprobenanzahl Robuste Verfahren
+title: Stichprobenanzahl Robuste Verfahren
 ---
 Wie Viele Stichproben gibt es?
 

@@ -1,5 +1,5 @@
 ---
-title: z Tests für Korrelation
+title: Z-Tests für Korrelation
 ---
 
 Mit dem z-Test für Korrelation wird geprüft, ob ein beobachteter Zusammenhang (Korrelation) signifikant von einem erwarteten Korrelationswert abweicht (1-Stichprobe), oder ob sich zwei beobachtete Korrelationen signifikant voneinander unterscheiden.

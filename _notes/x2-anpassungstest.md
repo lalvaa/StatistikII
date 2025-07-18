@@ -1,5 +1,5 @@
 ---
-title: Chi-Quadratx2-anpassungstest
+title: Chi-Quadrat-Anpassungstest
 ---
 
 Der $x^{2}$x2-anpassungstest wird mit einer nominal-skalierten Variable berechnet.
@@ -21,7 +21,7 @@ Wir beobachten wie häufig einzelne Merkmalsausprägungen vorkommen und Überpr�
 
 ---
 
-### <u>Voraussetzung:</sub>
+### <u>Voraussetzung:</u>
 
 * Nominalskalierte Variable
 

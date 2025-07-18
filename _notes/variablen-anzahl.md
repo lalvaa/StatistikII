@@ -6,7 +6,7 @@ Wie viele nominale Variablen werden analysiert
 
 Eine Variable
 
-* [x²x2-anpassungstest](/x2x2-anpassungstest)
+* [x²-Anpassungstest](/x2-anpassungstest)
 
 Zwei Variablen mit je 2 Ausprägungen:
 

@@ -1,5 +1,5 @@
 ---
-title: stichproben und Messzeitpunkte Chi Quadrat
+title: Stichproben und Messzeitpunkte Chi Quadrat
 ---
 
 Wie viele Stichproben/Messzeitpunkte?

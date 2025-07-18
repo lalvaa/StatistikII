@@ -9,8 +9,11 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 * Idr. möchte man generalisierbare Aussagen über die gesamte Population ableiten (nur möglich wenn die Daten aus einer Stichprobe stammen, nicht wenn die Daten nur für eine Person gelten)
 
 [Güte der linearen Regression](/guete-der-linearen-regression)
+
 [Regressionsgerade; Einfache-lineare Regression](/regressionsgerade-einfache-lineare-regression)
+
 [Normalverteilungsannahme testen](/Voraussetzungstests/normalverteilungsannahme-testen)
+
 [Varianzhomogenität bzw. Homoskedastizität](/Voraussetzungstests/varianzhomogenitaet-bzw-homoskedastizitaet)
 
 ---
@@ -117,7 +120,7 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
 * Lineare Beziehung
   * Der Zusammenhang zwischen dem Erwartungswert des Kriteriums und des Prädiktors muss in der Population linear sein
   * Gegeben durch eine Gleichung
-    * $E(y\;|\; x_1 , ... ,x_k) = \beta_{0} + \beta_1 \cdot x_1 \; + ... + \; \beta_k \cdot x_k$
+    * $E(y \mid x_1, \ldots, x_k) = \beta_0 + \beta_1 \cdot x_1 + \cdots + \beta_k \cdot x_k$
   * Lineare Zusammenhänge = Wenn x-Werte steigen/sinken, steigen/sinken y
   * ![277x199](_notes/Nicht-lineare-Zusammenhaenge.png)
 * Metrisches Skalenniveaus des Kriteriums

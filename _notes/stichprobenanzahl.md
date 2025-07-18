@@ -1,5 +1,5 @@
 ---
-title: stichprobenanzahl
+title: Stichprobenanzahl
 ---
 
 Wie viele Stichproben gibt es?

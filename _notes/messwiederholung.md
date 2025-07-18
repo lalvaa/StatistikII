@@ -1,5 +1,5 @@
 ---
-title: messwiederholung
+title: Messwiederholung
 ---
 
 Ist Messwiederholung vorhanden?
@@ -13,5 +13,9 @@ Ja:
 Nein:
 
 * [Gruppenvergleich](/gruppenvergleich)
+
+--- 
+<br><br>
+
 
 [Zurück zur Übersicht](/faktorstufen)
