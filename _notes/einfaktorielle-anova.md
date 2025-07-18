@@ -99,7 +99,8 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
   * P-Werte der einzelnen sind hier Aussagegebend
   * Keine Aussage darüber welche Faktorstufe am "besten/schlechtesten" ist
   * Beispiel:
-    * ![296x196](_notes/Post-Hoc-Test.png)
+    * ![296x196](posthoctest.png
+  )
     * Anixfree unterscheidet sich signifikant von Joyzepam aber nicht signifikant von Placebo
     * Joyzepam unterscheidet sich signifikant von placebo
 
@@ -131,9 +132,9 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
     * Wie stark die Werte innerhalb der Gruppe im Durchschnitt streuen
     * Kann nicht durch den Faktor erklärt werden
 * Jamovi:
-  * ![232x95](_notes/E.Anova-Jamovi.png)
+  * ![232x95](eanjamovi.png)
 * R Output:
-  * ![415x132](_notes/E.ANOVA-R-Output.png)
+  * ![415x132](eanrout.png)
 * G\* Power
   * Zeigt die Power an
   * Wahrscheinlichkeit einen tatsächlichen Effekt zu entdecken wenn dieser da ist

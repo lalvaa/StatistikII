@@ -118,7 +118,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
     * Der Wert des Kriteriums wenn die Prädiktoren 0 sind
 * Beispiel in Jamovi:
   
-  * ![395x180](_notes/Tabelle-Jamovi-MLR.png)
+  * ![395x180](tabellejammlr.png)
   * "Hängt Dans Grumpyness mit seiner Menge an Schlaf und der Menge an Schlaf zusammen die sein Baby schläft?"
     * UV/Prädiktor/dan.sleep:
       * Signifikanz des Prädiktors:
@@ -163,7 +163,7 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
   * "Fehler sind überall gleich verteilt, unabhängig vom Wert des Pradiktoren"
   * Überprüfung durch Arrayverteilung
     * Verteilung der Residuen (Z.B. Grafisch)
-    * ![254x84](_notes/Arrayverteilung.png)
+    * ![254x84](_notes/arrayverteilung.png)
 * Keine Multikollinearität
   * Die UVs dürfen nicht stark miteinander korrelieren
 * Additivität
