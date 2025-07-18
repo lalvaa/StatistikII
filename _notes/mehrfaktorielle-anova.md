@@ -177,34 +177,34 @@ Eine Forscherin möchte untersuchen, wie sich **Koffeinkonsum (niedrig vs. hoch)
      * $QS_{\text{gesamt}} = \sum^j\sum^i (y_{ij} - \bar{\bar{y}})^2$
      * Abweichung jedes Messwerts vom Gesamtmittelwert
    * **Haupteffekte & Interaktionseffekte (systematische Variation)**
-     * $QS_A$, $QS_B$, $QS_{A \times B}$
+     * $QS_A$, $QS_B$, $QS_{\text{A x B}}$
        * Abweichung der Zellmittelwerte (z. B. Kombinationen aus A und B) vom Gesamtmittelwert
        * Erklären jeweils die Varianz durch Faktor A, Faktor B und deren Interaktion
    * **Fehlervariation (Residuals)**
      * $QS_{\text{inn}} = \sum (y_{ij} - \bar{y}_{Zelle})^2$
      * Abweichung der Einzelwerte vom jeweiligen Zellmittelwert
      * Kann durch keinen Faktor erklärt werden
-1. **Varianzen berechnen**
+2. **Varianzen berechnen**
    * Quadratsummen werden durch die zugehörigen Freiheitsgrade geteilt
    * **Systematische Varianz (für jeden Effekt)**
      * $\sigma^2_{A} = \dfrac{QS_A}{df_A}$
      * $\sigma^2_{B} = \dfrac{QS_B}{df_B}$
-     * $\sigma^2_{A \times B} = \dfrac{QS_{A \times B}}{df_{A \times B}}$
+     * $\sigma^2_{\text{A x B}} = \dfrac{QS_{\text{A x B}}}{df_{\text{A x B}}}$
    * **Fehlervarianz (Residuals)**
      * $\sigma^2_{\text{inn}} = \dfrac{QS_{\text{inn}}}{df_{\text{inn}}}$
    * **Freiheitsgrade**
      * $df_A = a - 1$
      * $df_B = b - 1$
-     * $df_{A \times B} = (a - 1)(b - 1)$
+     * $df_{\text{A x B}} = (a - 1)(b - 1)$
      * $df_{\text{inn}} = N - ab$
        * $a$ = Anzahl Stufen von Faktor A
        * $b$ = Anzahl Stufen von Faktor B
        * $N$ = Gesamtanzahl der Beobachtungen
-1. **F-Test berechnen**
+3. **F-Test berechnen**
    * Für jeden Effekt wird ein separater F-Wert berechnet:
-     * $F_A = \dfrac{\sigma^2_A}{\sigma^2_{\text{inn}}}$
-     * $F_B = \dfrac{\sigma^2_B}{\sigma^2_{\text{inn}}}$
-     * $F_{A \times B} = \dfrac{\sigma^2_{A \times B}}{\sigma^2_{\text{inn}}}$
+     * $F_A = \dfrac{{\sigma^2}_A}{\sigma^2_{\text{inn}}}$
+     * $F_B = \dfrac{{sigma^2}_B}{\sigma^2_{\text{inn}}}$
+     * $F_{A \times B} = \dfrac{\sigma^2_{\text{A x B}}}{\sigma^2_{\text{inn}}}$
    * **Vergleich mit kritischem F-Wert**
      * $F_{emp} \ge F_{krit}$  
        → Signifikant, Nullhypothese für den jeweiligen Effekt wird abgelehnt
