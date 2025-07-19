@@ -9,7 +9,7 @@ Eine Voraussetzung der Multiplen Regression ist es keine starken Ausreißer zu h
 * Ausreißer sind nicht direkt als solche sichtbar
 * Zeigen erst nach der Regressionsrechnung ihre Hebelwirkung
 
-\_\_\_-
+---
 
 ### <u>Cook´s Distance:</u>
 

@@ -45,7 +45,7 @@ Da dieselben Versuchspersonen mehrfach getestet werden, wird die **intersubjekti
   * Wird mit Mauchly-Test geprüft
   * Wir möchten nicht signifikant bei dem Test sein
 
-\_\_\_-
+---
 
 ### <u>Interpretation der Ergebnisse:</u>
 

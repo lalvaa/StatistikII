@@ -55,11 +55,11 @@ Für die Vorhersage wird eine Regressionsgerade benutzt wodurch man Vorhersagen 
       * k =  Anzahl der Prädiktoren (hier 1--> df = n-2)
 * F-test
   * Hier entspricht der F-Wert dem Quadrat des t-Werts, da es nur einen Prädiktor gibt:
-    → $F = t^2$
-    → $F_{emp} \ge F_{krit}$
-    → Signifikant
-    → Ein signifikanter F-Test bedeutet:
-    → Der **Prädiktor erklärt signifikant Varianz**
+    * → $F = t^2$
+  * $F_{emp} \ge F_{krit}$
+    * → Signifikant
+  * Ein signifikanter F-Test bedeutet:
+    * Der **Prädiktor erklärt signifikant Varianz**
 * Intercept: $b_0 /a_{yx}$ oder auch Y-Achsenabschnitt
   * Der Wert des Kriteriums wenn der Prädiktor 0 ist
   * Der Intercept ist ebenfalls ein geschätzter Regressionskoeffizient und hat einen eigenen p-Wert.

@@ -2,7 +2,7 @@
 title: Was ist die Analyse Absicht
 ---
 
-### Zusammenhangs-Analyse oder Vorhersage:</u>
+### <u>Zusammenhangs-Analyse oder Vorhersage:</u>
 
 * [Zusammenhang oder Vorhersage](/zusammenhang-oder-vorhersage)
 

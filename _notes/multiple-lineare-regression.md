@@ -9,10 +9,15 @@ Für die Vorhersage wird eine Regressionsgerade benutzt.
 Anschließend kann man noch die Güte der Multiplen Linearen Regression berechnen , um eine Aussage darüber zu treffen wie gut die Regressionsgerade die Werte hervorsagt.
 
 [Güte der linearen Regression](/guete-der-linearen-regression)
+
 [Regressionsgerade; Multiple-lineare Regression](/regressionsgerade-multiple-lineare-regression)
+
 [Normalverteilungsannahme testen](/normalverteilungsannahme-testen)
+
 [Multikollinearität überprüfen](/Multikollinearitaet-ueberpruefen)
+
 [Ausreißer überprüfen](/ausreisser-ueberpruefen)
+
 [Varianzhomogenität bzw. Homoskedastizität](/varianzhomogenitaet-bzw-homoskedastizitaet)
 
 ---
@@ -38,11 +43,11 @@ Anschließend kann man noch die Güte der Multiplen Linearen Regression berechne
      * Mindestens ein Regressionskoeffizient ist nicht null
    * Hiermit wird getestet ob das Modell insgesamt signifikant ist
 1. <u>Einzelhypothesen:</u>
-   1. $H_0:\beta_j = 0$
+   * $H_0:\beta_j = 0$
       * Prädiktor j hat keinen Einfluss auf das Kriterium
    * $H_1 : \beta_j \neq 0$
-     * Prädiktor j hat Einfluss auf das Kriterium
-   * Hiermit wird getestet ob ein einzelner Prädiktor UV einen signifikanten Einfluss auf die AV hat
+      * Prädiktor j hat Einfluss auf das Kriterium
+   *  Hiermit wird getestet ob ein einzelner Prädiktor UV einen signifikanten Einfluss auf die AV hat
 
 ---
 
