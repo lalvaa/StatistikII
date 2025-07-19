@@ -24,9 +24,10 @@ Man möchte zeigen, dass sich zwei Korrelationen voneinander unterscheiden
 
 * $H_{o}: \rho_1 = \rho_{1}$
   * Die Korrelationen unterscheiden sich nicht
-* $H_{1}: \rho_1 \neq \rho_{2}$ (Ungerichtet) ($\rho$ wird auch $\varrho$ genannt in der vorlesung)$
+* $H_{1}: \rho_1 \neq \rho_{2}$ (Ungerichtet) 
 * $H_{1}: \rho_1 >/< \rho_{2}$ (Gerichtet)
   * Wir möchten Signifikant werden und die Nullhypothese ablehnen um zu zeigen, dass sich die 2 Stichproben Korrelationen signifikant voneinander unterscheiden
+* $\rho$ wird auch manchmal $\varrho$ genannt in der Vorlesung
 
 ---
 
