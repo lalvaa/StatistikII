@@ -70,7 +70,7 @@ Unterscheiden sich das durchschnittliche Stresserleben von Studierenden aus den 
       * Annahme der $H_0$ sehr wahrscheinlich
 * $p-Wert$:
   * Dieser Wert kann direkt mit dem $\alpha$-Wert verglichen werden
-  * $p \ge \alpha$
+  * $p \le \alpha$
     → Signifikant und Nullhypothese wird abgelehnt
 * Effektstärke $\eta^2$
   * Welcher Anteil der Gesamtvarianz der AV durch den Faktor erklärt wird
