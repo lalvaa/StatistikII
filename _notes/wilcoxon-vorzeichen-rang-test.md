@@ -21,7 +21,7 @@ Gibt es einen Unterschied im Stresslevel vor und nach einer Aufmerksamkeitsübun
 
 ### <u>Voraussetzungen:</u>
 
-* Intervallskalierte Merkmale
+* Ordinalskalierte Merkmale
 
 ---
 
